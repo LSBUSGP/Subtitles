@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b431e9b5e6aaf345b1d74960231b769, type: 3}
+  m_Name: Spanish
+  m_EditorClassIdentifier: 
+  list:
+  - text: Soy Victor.
+    show: 10
+    hide: 12
+  - text: Hola.
+    show: 14
+    hide: 16
+  - text: "Y t\xFA eres\u2026"
+    show: 16
+    hide: 18
+  - text: Eres Franck.
+    show: 19
+    hide: 21
+  - text: "Tu eres m\xE1s que una simple oveja. \xBFNo es cierto?"
+    show: 22
+    hide: 26
+  - text: "\xBFAh s\xED? Y usted qu\xE9 sabr\xE1."
+    show: 27
+    hide: 30
